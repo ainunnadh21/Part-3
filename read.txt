@@ -1,0 +1,28 @@
+Style 
+Style HTML adalah cara untuk membuat tampilan halaman web menjadi lebih menarik. Biasanya untuk mengatur font,
+tata letak elemen di halaman menambahkan efek.
+
+
+Formating 
+Kita bisa membuat kata-kata tertentu menjadi tebal, miring, atau bergaris bawah untuk memberikan penekanan.
+Begitu pula dalam HTML, kita bisa mengatur tampilan teks agar lebih menarik dan informatif.
+Contoh Formating HTML:
+
+<b> , <strong> - Teks tebal
+<i>- Teks miring
+<em>- Teks yang ditekankan
+<mark>- Teks yang ditandai
+<small>- Teks lebih kecil
+<del>- Teks dihapus
+<ins>- Teks yang disisipkan
+<sub>- Teks subskrip
+<sup>- Teks superskrip
+ 
+ 
+komentar
+Komentar / Comment HTML adalah catatan atau penjelasan yang tidak akan ditampilkan di halaman web
+Komentar HTML membantu untuk mendokumentasikan kode atau memberikan petunjuk tanpa memengaruhi tampilan halaman web.
+Komentar sangat berguna untuk pengembangan dan pemeliharaan kode HTML.
+untuk membuat komentar
+        <!-- Ini adalah komentar dalam HTML -->
+
